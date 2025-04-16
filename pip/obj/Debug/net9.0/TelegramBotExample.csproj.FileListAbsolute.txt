@@ -1,0 +1,10 @@
+/Users/pnitkaa/Desktop/pip/TelegramBotExample/obj/Debug/net9.0/TelegramBotExample.csproj.AssemblyReference.cache
+/Users/pnitkaa/Desktop/pip/TelegramBotExample/obj/Debug/net9.0/TelegramBotExample.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pnitkaa/Desktop/pip/TelegramBotExample/obj/Debug/net9.0/TelegramBotExample.AssemblyInfoInputs.cache
+/Users/pnitkaa/Desktop/pip/TelegramBotExample/obj/Debug/net9.0/TelegramBotExample.AssemblyInfo.cs
+/Users/pnitkaa/Desktop/pip/TelegramBotExample/obj/Debug/net9.0/TelegramBotExample.csproj.CoreCompileInputs.cache
+/Users/pnitkaa/Desktop/pip/pip/obj/Debug/net9.0/TelegramBotExample.csproj.AssemblyReference.cache
+/Users/pnitkaa/Desktop/pip/pip/obj/Debug/net9.0/TelegramBotExample.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pnitkaa/Desktop/pip/pip/obj/Debug/net9.0/TelegramBotExample.AssemblyInfoInputs.cache
+/Users/pnitkaa/Desktop/pip/pip/obj/Debug/net9.0/TelegramBotExample.AssemblyInfo.cs
+/Users/pnitkaa/Desktop/pip/pip/obj/Debug/net9.0/TelegramBotExample.csproj.CoreCompileInputs.cache
